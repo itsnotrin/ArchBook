@@ -5,11 +5,18 @@
 This project is still in very, very, **very** early stages of development. It's nowhere near completion nor will it be for a while. You can track updates [here](https://github.com/itsnotrin/ArchBook/issues/1) as well as discussions about the distro in general.
 Thanks!
 
+---
+
 - [ArchBook](#archbook)
   - [Warning](#warning)
   - [What is Archbook?](#what-is-archbook)
   - [What does it use?](#what-does-it-use)
+    - [💻 Base OS](#-base-os)
+    - [📺 Window Manager](#-window-manager)
+  - [It's very lightweight, popular, fast and just works nicely overall whilst still being very customisable.](#its-very-lightweight-popular-fast-and-just-works-nicely-overall-whilst-still-being-very-customisable)
   - [Credits](#credits)
+
+---
 
 ## What is Archbook?
 
@@ -19,12 +26,27 @@ It's capable of running on many devices and is designed to be as light as possib
 
 It will work on older Chromebooks as well as any device and is designed to be a breath of fresh air for anybody looking for a new distro to try or just looking to start with linux!
 
+---
+
 ## What does it use?
 
-💻 Base OS: [Arch Linux](https://archlinux.org/)
+### 💻 Base OS
 
-📺 Window Manager: [OpenBox](https://github.com/danakj/openbox)
+[ArchCraft](https://archcraft.io/)
 
+**Why?**
+
+It's already extremely optimised and works out of the box on all the chromebooks I've tested it on very nicely!
+
+----------------
+
+### 📺 Window Manager
+
+[OpenBox](https://github.com/danakj/openbox)
+
+**Why?**
+
+It's very lightweight, popular, fast and just works nicely overall whilst still being very customisable.
 ------------
 
 ## Credits
